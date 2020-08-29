@@ -1,2 +1,0 @@
-# NikeMVVM-
-Nike Code Challenge
